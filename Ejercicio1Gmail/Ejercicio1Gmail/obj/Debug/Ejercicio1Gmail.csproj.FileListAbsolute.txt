@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\obj\Debug\Ejercicio1Gmail.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\obj\Debug\Ejercicio1Gmail.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\bin\Debug\Ejercicio1Gmail.exe.config
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\bin\Debug\Ejercicio1Gmail.exe
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\bin\Debug\Ejercicio1Gmail.pdb
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\obj\Debug\Ejercicio1Gmail.exe
+C:\Users\TF049\Desktop\Tercera serie programacion\Ejercicio1Gmail\Ejercicio1Gmail\obj\Debug\Ejercicio1Gmail.pdb
